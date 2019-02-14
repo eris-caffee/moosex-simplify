@@ -100,7 +100,7 @@ BUGS
     https://github.com/eris-caffee/moosex-simplify
 
 LICENSE
-    Copyright (c) 2019, Sarah Eris Horsely Caffee All rights reserved.
+    Copyright (c) 2019, Sarah Eris Horsley Caffee All rights reserved.
 
     Redistribution and use in source and binary forms, with or without
     modification, are permitted provided that the following conditions are

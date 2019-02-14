@@ -139,7 +139,7 @@ Please report bugs on GitHub: https://github.com/eris-caffee/moosex-simplify
 
 =head1 LICENSE
 
-Copyright (c) 2019, Sarah Eris Horsely Caffee
+Copyright (c) 2019, Sarah Eris Horsley Caffee
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
